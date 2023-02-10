@@ -1,0 +1,1 @@
+# testing-for-trend-or-saisonality-in-time-serie-with-R
